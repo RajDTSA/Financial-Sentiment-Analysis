@@ -1,1 +1,7 @@
 # Financial-Sentiment-Analysis
+
+In this project, the focus lies on conducting sentiment analysis utilizing deep learning techniques, with a keen emphasis on model comparison. The primary objective is to delve into the realm of natural language processing (NLP) by exploring various deep learning models' effectiveness in discerning sentiment from textual data. The project will commence with the Financial Sentiment dataset from Kaggle and the identification of an appropriate deep learning problem. Subsequently, an exploratory data analysis (EDA) phase will ensue, where the dataset will be thoroughly inspected, visualized, and cleaned to ensure its suitability for analysis. Following the EDA, the project will transition into the main analysis phase, where two to three deep learning models will be employed to perform sentiment analysis. Throughout this phase, a comprehensive comparison of the models' performance will be conducted, shedding light on their strengths, weaknesses, and suitability for the task at hand. By the project's conclusion, we aim to not only showcase the efficacy of deep learning in sentiment analysis but also provide valuable insights into the nuances of model selection and optimization in NLP tasks.
+
+Dataset : https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
+
+The following data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels
